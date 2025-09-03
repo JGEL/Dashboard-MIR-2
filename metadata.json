@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Universitario MIR",
+  "description": "Un dashboard interactivo para analizar el rendimiento en el examen MIR. Permite comparar estadísticas entre universidades en un año específico o visualizar la evolución anual de una o varias instituciones a lo largo del tiempo.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
