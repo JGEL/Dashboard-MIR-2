@@ -1,6 +1,9 @@
 Propósito Principal
+
 La aplicación es un Dashboard Interactivo de Rendimiento en el examen MIR, una herramienta de análisis de datos diseñada para visualizar y comparar el rendimiento de las universidades españolas en el examen MIR (Médico Interno Residente). Utiliza datos oficiales del Ministerio de Sanidad desde el año 2014 hasta 2025.
+
 Funcionalidades Clave
+
 La aplicación se estructura en dos modos de visualización principales:
 Modo de Comparativa por Año:
 Permite al usuario seleccionar un año específico.
